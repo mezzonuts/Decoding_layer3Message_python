@@ -1,0 +1,6 @@
+# Ignore generated Excel reports
+*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
